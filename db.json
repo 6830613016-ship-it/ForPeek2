@@ -1,0 +1,25 @@
+{
+    "users": [
+        {
+            "albumId": 1,
+            "id": 1,
+            "title": "reprehenderit est deserunt velit ipsam",
+            "url": "/image/try.png",
+            "thumbnailUrl": "/image/try.png"
+        },
+        {
+            "albumId": 1,
+            "id": 2,
+            "title": "reprehenderit est deserunt velit ipsam",
+            "url": "/image/try.png",
+            "thumbnailUrl": "/image/try.png"
+        },
+        {
+            "albumId": 1,
+            "id": 3,
+            "title": "reprehenderit est deserunt velit ipsam",
+            "url": "/image/try.png",
+            "thumbnailUrl": "/image/try.png"
+        }
+    ]
+}
